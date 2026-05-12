@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <AssemblyName>BroccoKanban</AssemblyName>
+    <RootNamespace>BroccoKanban</RootNamespace>
+    <TargetPlatformSdkPath>C:\Program Files (x86)\Windows Kits\10\</TargetPlatformSdkPath>
+    <TargetPlatformDisplayName>Windows SDK</TargetPlatformDisplayName>
+    <TargetPlatformMoniker>Windows,Version=7.0</TargetPlatformMoniker>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    <ApplicationHighDpiMode>PerMonitorV2</ApplicationHighDpiMode>
+    <ApplicationIcon>Assets\icon.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Fonts\Phosphor-Bold.ttf" />
+    <EmbeddedResource Include="Fonts\Phosphor-Fill.ttf" />
+  </ItemGroup>
+</Project>
