@@ -18,7 +18,6 @@ A lightweight Kanban board app for Windows, built with .NET 8 and WinForms. Desi
 ## Requirements
 
 - Windows 10 or later
-- [.NET 8 Desktop Runtime](https://dotnet.microsoft.com/en-us/download/dotnet/8.0)
 
 ---
 
