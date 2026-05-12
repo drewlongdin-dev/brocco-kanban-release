@@ -21,18 +21,6 @@ A lightweight Kanban board app for Windows, built with .NET 8 and WinForms. Desi
 
 ---
 
-## Installation
-
-> Releases are coming soon. Check back here or watch the repo for updates.
-
-<!-- Once available:
-1. Go to the [Releases](../../releases) page
-2. Download the latest `.zip`
-3. Extract and run `BroccoKanban.exe` — no installer needed
--->
-
----
-
 ## Board files
 
 Boards are stored as `.knbn` files — a thin JSON format specific to BroccoKanban. You can keep them anywhere on your machine. There is no cloud sync or account required.
