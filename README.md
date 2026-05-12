@@ -59,7 +59,9 @@ If you want to generate a board programmatically or pre-populate one with tasks,
 
 Valid column values: `"Todo"`, `"In Progress"`, `"Testing"`, `"Complete"`
 
-Valid palette values: `"garden"`, `"dawn"`, `"ink"`, `"night"`, `"orchard"`, `"studio"`
+Valid palette values: `"garden"`, `"dawn"`, `"ink"`, `"latte"`, `"mocha"`, `"americano"` `"night"`, `"orchard"`, `"studio"`, `"trappist1"`, `"argon"`, `"titanium"`, `"banana"`, `"redblack"`, `"neon80s"`, `"cherry"`, `"rainforest"`
+
+In this repo you can find a [.skill file](brocco-kanban.skill) compatible with Claude to generate Kanban boards with prompts.
 
 ---
 
